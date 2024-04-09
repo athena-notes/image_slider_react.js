@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec91f509.css",
+    "main.js": "/static/js/main.6e15d2d4.js",
+    "static/media/slide2.png": "/static/media/slide2.4161b23bbddf1172e2ee.png",
+    "static/media/slide3.png": "/static/media/slide3.b4a57055564725355fd9.png",
+    "static/media/slide1.png": "/static/media/slide1.9bc19fc6ef141d8d9eb0.png",
+    "static/media/autoparts.png": "/static/media/autoparts.b1ce07e010948e9cceae.png",
+    "static/media/1.jpg": "/static/media/1.610639fbaa5759a7d93d.jpg",
+    "static/media/2.jpg": "/static/media/2.7b7c0864d4d2c1a33e97.jpg",
+    "static/media/3.jpg": "/static/media/3.f2641047c7c901673472.jpg",
+    "static/media/starline.png": "/static/media/starline.8d10f32e6c8d9d18c540.png",
+    "static/media/seiken.png": "/static/media/seiken.a44761198a0e84d2118a.png",
+    "static/media/nachi.png": "/static/media/nachi.91f160b7af002814a06f.png",
+    "index.html": "/index.html",
+    "main.ec91f509.css.map": "/static/css/main.ec91f509.css.map",
+    "main.6e15d2d4.js.map": "/static/js/main.6e15d2d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec91f509.css",
+    "static/js/main.6e15d2d4.js"
+  ]
+}
